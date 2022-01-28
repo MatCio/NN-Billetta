@@ -1,0 +1,7 @@
+% Model:              batchmodel_BILLETTA_r_0.0335556_COIL_kr_2.4069_COIL_kw_5.8583_FUNZ_freq_7167.5_FUNZ_I_eff_174.7421.mph
+% Version:            COMSOL 5.6.0.280
+% Date:               Jan 27 2022, 20:06
+% Table:              Tabella delle sonde 1 - 
+% Tempo (s)                                       Temperatura (degC), Punto: (0, 0.5)               Temperatura (degC), Punto: (0.5*BILLETTA_r, 0.5)  Temperatura (degC), Punto: (BILLETTA_r-10*FUNZ_depth_billetta, 0.5)Temperatura (degC), Punto: (BILLETTA_r-5*FUNZ_depth_billetta, 0.5)Temperatura (degC), Punto: (BILLETTA_r-2*FUNZ_depth_billetta, 0.5)Temperatura (degC), Punto: (BILLETTA_r-FUNZ_depth_billetta, 0.5)Temperatura (degC), Punto: (BILLETTA_r-0.01[mm], 0.5)
+0                                                 20                                                20                                                20.00000008195792                                 20.10904120190537                                 21.01327982858379                                 21.563179977251252                                22.035984011948415
+3.305957380540656                                 22.97966805094154                                 87.17391094498026                                 1268.1873238932594                                1371.0566120355388                                1394.0640699510568                                1395.9591385649614                                1395.1219753241494
